@@ -19,4 +19,6 @@
 
 6. supporting application like snippets is really truely considerable.
 
+7. not like react, vue have a strict form for data determinig. like data(), methods. It means it is much easier to understand what is set
+
 Why not use this kind of awesome framework? I fall in love about it
